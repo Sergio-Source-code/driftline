@@ -1,0 +1,5 @@
+build/
+*.xcodeproj
+.DS_Store
+App/Assets.xcassets/AppIcon.appiconset/DriftlineIcon.png
+__pycache__/
